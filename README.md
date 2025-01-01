@@ -2,7 +2,7 @@
 
 Create C2 and Ligolo-ng redirector on Cloudflare Pages, using the Functions feature.  
 
-Blog post (KOREAN): (TBD) 
+Blog post (KOREAN): https://www.xn--hy1b43d247a.com/infrastructure/cloudflared-tunnel-pages
 Inspired by: https://labs.jumpsec.com/putting-the-c2-in-c2loudflare/
 
 ## Usage 

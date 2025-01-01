@@ -1,6 +1,6 @@
 export async function onRequest(context) {
 
-    // HARDCODE SECRETS. Use wrangler.toml if you prefer more opsec.
+    // !! UPDATE ME !! - HARDCODED SECRETS. Use wrangler.toml if you prefer more opsec.
     const SLIVER_ENDPOINT = "https://sliver.domain.com";
     const LIGOLO_ENDPOINT = "https://ligolo.domain.com";
     const SERVICE_CF_ID = "redacted.access";
